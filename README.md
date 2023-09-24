@@ -26,7 +26,7 @@ Sample of [wiki pages](wiki_pages.csv) data:
 9          "אני רופא, לא..."  https://he.wikipedia.org/wiki/%22%D7%90%D7%A0%...  2023-09-02 21:23:19.143879   
 ```
 
-Sample of wiki users data:
+Sample of [wiki users](https://www.kaggle.com/yalonfishbaine/wiki-he-users-edits-analyzing/edit) data:
 ```csv
       user_name   user_id  edits_size_bytes tags is_hidden_user      page_name user_talk
 0      Lionster   99779.0                64   []        [False]  טורס דל פיינה      None
@@ -36,6 +36,7 @@ Sample of wiki users data:
 4        DMbotY   41054.0              1993   []        [False] טורסד דה פואנט      None
 ```
 
-### Information about users you can find here:   
+All data and analysis examples can be found on Kaggle: [Users' edits in Hebrew Wikipedia](https://www.kaggle.com/datasets/yalonfishbaine/users-edits-in-hebrew-wikipedia). 
+### Information about Wikipedia users you can find here:   
 1. [Wiki HE user list](https://he.m.wikipedia.org/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A8%D7%A9%D7%99%D7%9E%D7%AA_%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9%D7%99%D7%9D&group=sysop)
 2. [Wiki EN user list](https://en.wikipedia.org/wiki/Special:ListUsers)
