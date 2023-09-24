@@ -1,9 +1,9 @@
 # Analyzing Wikipedia
 
-a repository for fetching data on Wikipedia in order to analyze it.
+A repository for fetching data from Wikipedia in order to analyze it.
 Contains 2 different jobs:
-1. "pages" - fetches data on pages in Wikipedia
-2. "users" - fetches data on users in Wikipedia
+1. "pages" - fetches all pages from a Wikipedia site, E.g all pages in Hebrew Wikipedia
+2. "users" - fetches Wikipedia users data for a given page, E.g all users that edited the page "ישראל" in Hebrew Wikipedia
 
 ## Run
 In order to run the code, first go to `wikimedia_analysis` and run:
@@ -36,6 +36,6 @@ Sample of wiki users data:
 4        DMbotY   41054.0              1993   []        [False] טורסד דה פואנט      None         None
 ```
 
-## Information about users you can find here:   
+### Information about users you can find here:   
 1. [Wiki HE user list](https://he.m.wikipedia.org/w/index.php?title=%D7%9E%D7%99%D7%95%D7%97%D7%93:%D7%A8%D7%A9%D7%99%D7%9E%D7%AA_%D7%9E%D7%A9%D7%AA%D7%9E%D7%A9%D7%99%D7%9D&group=sysop)
 2. [Wiki EN user list](https://en.wikipedia.org/wiki/Special:ListUsers)
