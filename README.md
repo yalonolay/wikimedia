@@ -16,7 +16,7 @@ python main.py -j=<job_name>
 ```
 where `<job_name>` is either `pages` or `users`.
 
-Sample of wiki pages data:
+Sample of [wiki pages](wiki_pages.csv) data:
 ```csv
                    page_name                                           page_url     last_fetch_page_name_ts    
 5          "O"-Jung.Ban.Hap.  https://he.wikipedia.org/wiki/%22O%22-Jung.Ban...  2023-09-02 21:23:19.138335        
