@@ -28,12 +28,12 @@ Sample of wiki pages data:
 
 Sample of wiki users data:
 ```csv
-      user_name   user_id  edits_size_bytes tags is_hidden_user      page_name user_talk kohelet_talk 
-0      Lionster   99779.0                64   []        [False]  טורס דל פיינה      None         None 
-1         Ewan2   48020.0                42   []        [False]  טורסד דה פואה      None         None     
-2  Anna.kiselov  205151.0              1847   []        [False] טורסד דה פואנט      None         None   
-3       Bom2013  234567.0              3789   []        [False] טורסד דה פואנט      None         None     
-4        DMbotY   41054.0              1993   []        [False] טורסד דה פואנט      None         None
+      user_name   user_id  edits_size_bytes tags is_hidden_user      page_name user_talk
+0      Lionster   99779.0                64   []        [False]  טורס דל פיינה      None
+1         Ewan2   48020.0                42   []        [False]  טורסד דה פואה      None
+2  Anna.kiselov  205151.0              1847   []        [False] טורסד דה פואנט      None
+3       Bom2013  234567.0              3789   []        [False] טורסד דה פואנט      None
+4        DMbotY   41054.0              1993   []        [False] טורסד דה פואנט      None
 ```
 
 ### Information about users you can find here:   
